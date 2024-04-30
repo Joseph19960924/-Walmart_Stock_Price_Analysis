@@ -25,7 +25,7 @@ The dataset contains the following columns:
 ## Repository Structure
 
 - `data/`: Contains the dataset file.
-- `analysis.sql`: SQL queries for data analysis.
+- `wolmart.sql`: SQL queries for data analysis.
 - `README.md`: Documentation of the project, including dataset description, project goals, and repository structure.
 
 
